@@ -12,7 +12,7 @@
     left: 0;
     right: 0;
     margin: auto;
-    background-image: url(../img/background.png);
+    background-image: url(/img/background.png);
     background-repeat: repeat;
   }
   
